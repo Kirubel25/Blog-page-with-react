@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 
 * {
   margin: 0;
@@ -45,11 +45,107 @@
 }
 
 .blog-priview:hover {
-  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
 
 .blog-priview h2 {
   font-size: 20px;
   color: #f15b35;
   margin-bottom: 8px;
+}
+
+.blog-priview a {
+  text-decoration: none;
+}
+.blog-details h2 {
+  font-size: 20px;
+  color: #f15b35;
+  margin-bottom: 10px;
+}
+
+.blog-details div {
+  margin: 20px 0;
+  text-align: justify;
+}
+
+.blog-details button {
+  background-color: #f15b35;
+  color: #ffff;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.create {
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.create h2 {
+  color: #f15b35;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button {
+  background-color: #f15b35;
+  color: #ffff;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.edit-blog {
+  max-width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.edit-blog h2 {
+  color: #f15b35;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.edit-blog label {
+  text-align: left;
+  display: block;
+}
+
+.edit-blog input, .edit-blog textarea, .edit-blog select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.edit-blog button {
+  background-color: #f15b35;
+  color: #ffff;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+  padding: 8px;
 }

@@ -1,35 +1,26 @@
 {
-    "blogs": [
-      {
-        "id": 1,
-        "title": "The Benefits of Reading Books",
-        "body": "Reading books can improve your cognitive skills, enhance your vocabulary, and increase your knowledge on various subjects. It can also reduce stress and improve mental health by providing a temporary escape from reality. Whether it's a novel, biography, or self-help book, there is a book out there for everyone.",
-        "author": "Sarah Johnson"
-      },
-      {
-        "id": 2,
-        "title": "The Power of Positive Thinking",
-        "body": "Positive thinking can have a significant impact on your life. By focusing on the positive aspects of a situation, you can reduce stress, increase happiness, and improve your overall well-being. It can also help you overcome challenges and achieve your goals. By practicing positive thinking, you can cultivate a more optimistic outlook on life.",
-        "author": "David Lee"
-      },
-      {
-        "id": 3,
-        "title": "The Importance of Sleep",
-        "body": "Getting enough sleep is crucial for overall health and well-being. It can help to improve memory, reduce stress, and even lower the risk of chronic diseases such as diabetes and heart disease. By establishing a regular sleep routine and prioritizing rest, you can improve your quality of life.",
-        "author": "Emily Smith"
-      },
-      {
-        "id": 4,
-        "title": "The Benefits of Travel",
-        "body": "Traveling can broaden your perspective, expose you to new cultures and experiences, and even improve your mental health. It can also provide an opportunity to relax, recharge, and take a break from the stresses of daily life. Whether it's a weekend getaway or a long-term adventure, traveling can be a transformative experience.",
-        "author": "Adam Brown"
-      },
-      {
-        "id": 5,
-        "title": "The Importance of Goal Setting",
-        "body": "Setting goals can help you focus your energy and resources, increase motivation, and provide a sense of purpose. It can also help you measure progress and track achievements, providing a sense of accomplishment and satisfaction. By setting realistic and achievable goals, you can improve your personal and professional life.",
-        "author": "Jennifer Kim"
-      }
-    ]
-  }
-  
+  "blogs": [
+    {
+      "title": "The Power of Positive Thinking",
+      "body": "Positive thinking can have a significant impact on your life. By focusing on the positive aspects of a situation, you can reduce stress, increase happiness, and improve your overall well-being. It can also help you overcome challenges and achieve your goals. By practicing positive thinking, you can cultivate a more optimistic outlook on life.",
+      "id": 2
+    },
+    {
+      "title": "The Importance of Sleep",
+      "author": "Emily Smith",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "The Benefits of Travel",
+      "body": "Traveling can broaden your perspective, expose you to new cultures and experiences, and even improve your mental health. It can also provide an opportunity to relax, recharge, and take a break from the stresses of daily life. Whether it's a weekend getaway or a long-term adventure, traveling can be a transformative experience.",
+      "author": "Adam Brown"
+    },
+    {
+      "id": 5,
+      "title": "The Importance of Goal Setting",
+      "body": "Setting goals can help you focus your energy and resources, increase motivation, and provide a sense of purpose. It can also help you measure progress and track achievements, providing a sense of accomplishment and satisfaction. By setting realistic and achievable goals, you can improve your personal and professional life.",
+      "author": "Jennifer Kim"
+    }
+  ]
+}
